@@ -1,3 +1,5 @@
+The following is instructions for the offspotter remote utility, not the guide generation.
+
 INSTRUCTIONS:
 -------------
 Please see https://cm.jefferson.edu/downloads/off-spotter-help/ for more details. Contact us if
